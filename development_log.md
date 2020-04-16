@@ -116,3 +116,9 @@
 1. 采用被动连接，因为客户端的高位随机端口可能被防火墙拦截。可以选择开放服务器的部分高位随机端口，比全部开放安全。
 2. 关于密码：客户端哈希加密之后传给服务器，服务器最好也再哈希加密一次。
 
+## 推荐阅读
+
+- [FTP Client 连接示例](https://gist.github.com/8f0d223fdeac625f6c2bd0b4fdd9524c#file-ftp_client_example-md)
+- [Electron 官方文档](https://www.electronjs.org/docs)
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
